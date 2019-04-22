@@ -5,6 +5,7 @@ package simple_gradle_java;
 
 public class Library {
     public boolean someLibraryMethod() {
+    	System.out.println("Hello world!");
         return true;
     }
 }
