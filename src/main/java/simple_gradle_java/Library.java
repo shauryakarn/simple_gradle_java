@@ -6,7 +6,7 @@ package simple_gradle_java;
 public class Library {
     public boolean someLibraryMethod() {
     	System.out.println("Hello world!");
-    	System.out.println("PR validation automation!!!");
+    	System.out.println("PR validation automation!!! Again");
         return true;
     }
 }
